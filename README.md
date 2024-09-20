@@ -23,6 +23,10 @@ npm install yarn
 ```
 
 ```
+npm install cors
+```
+
+```
 yarn add axios firebase styled-components react-icons react-redux @reduxjs/toolkit react-router-dom
 ```
 
